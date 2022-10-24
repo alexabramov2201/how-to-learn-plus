@@ -1,0 +1,8 @@
+.footer__list-links{
+    display: block;
+    margin:0 0 10px;
+}
+
+.footer__list-links:last-of-type {
+    margin-bottom: 0;
+}
